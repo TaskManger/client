@@ -1,0 +1,9 @@
+
+.home{
+    background-color: transparent;
+    background-blend-mode: color-burn;
+}
+.customColorLogo{
+    background: linear-gradient(90deg, #13b1c0, white);
+    color: #8e8e5564;
+}
